@@ -1,3 +1,8 @@
 # About
 
-[課題 5](https://airtable.com/tblTnXBXFOYJ0J7lZ/viwyi8muFtWUlhNKG/recmQLSaOpAgZOkVm)
+Nginx リバースプロキシ
+Express
+ngrok
+
+`ngrok`を使って、コンテナを外部公開できます。
+
