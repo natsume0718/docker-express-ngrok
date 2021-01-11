@@ -42,7 +42,7 @@ services:
     environment:
       NGROK_PROTOCOL: http
       NGROK_PORT: nginx:80
-      NGROK_AUTH: ${NGROK_AUTH}
+     #NGROK_AUTH: ${NGROK_AUTH}
     depends_on:
       - nginx
     networks:
